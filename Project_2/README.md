@@ -9,5 +9,5 @@
 
 *Стек*: BPMN, UML, draw.io, Miro, Google Docs, SIPOC Map
 
-*Артефакты*: AS IS и TO BE модели (BPMN) создания бронирования и обработки претензии, ООО, ТЗ, ФТ, НФТ, Use Cases, SIPOC Proccess Map, ПМИ, UML: use case (диаграмма прецедентов), диаграммы классов и объектов
+*Артефакты*: AS IS модели (BPMN) создания бронирования и обработки претензии, ООО, ТЗ, ФТ, НФТ, Use Cases, SIPOC Proccess Map, ПМИ, UML: use case (диаграмма прецедентов), диаграммы классов и объектов
 > *Все подготовленные артефакты лежат в папке [Project_2](https://github.com/ekaterinaserovaBA/PortfolioProjects/tree/main/Project_2)*
